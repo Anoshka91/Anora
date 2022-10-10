@@ -2,4 +2,4 @@
 
 Changes from local repository
 
-Changes from remov repository
+Changes from remote repository
